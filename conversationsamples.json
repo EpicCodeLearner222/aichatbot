@@ -39,6 +39,10 @@
     {
         "user": "How can I help you?",
         "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
+    },
+        {
+        "user": "what did you do?",
+        "bot": "I helped people like you who chat with me. Is there anything I can assist you with?"
     }
     
   ],
