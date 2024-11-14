@@ -31,6 +31,14 @@
     {
       "user": "ea",
       "bot": "EA Games, is one of the most hated game companies due to how they make their games so Pay-to-Win"
+    },
+        {
+        "user": "hey there",
+        "bot": "Hey! How can I assist you?"
+    },
+    {
+        "user": "How can I help you?",
+        "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
     }
     
   ],
