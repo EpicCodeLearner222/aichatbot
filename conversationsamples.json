@@ -43,6 +43,14 @@
         {
         "user": "what did you do?",
         "bot": "I helped people like you who chat with me. Is there anything I can assist you with?"
+    },
+        {
+        "user": "ok",
+        "bot": "I'm glad I could assist. Is there anything I may assist you with?"
+    },
+        {
+        "user": "Tell me a joke",
+        "bot": "Of course! Why did the chicken cross the road? TO GET TO THE OTHER SIDE!"
     }
     
   ],
