@@ -1,5 +1,5 @@
 {
-  "conversations":[
+  "conversations": [
     {
       "user": "hi",
       "bot": "Hello there!"
@@ -9,54 +9,53 @@
       "bot": "Hi there! How can I help you?"
     },
     {
-        "user": "hey",
-        "bot": "Hello there!"
+      "user": "hey",
+      "bot": "Hello there!"
     },
     {
-        "user": "how can I help you?",
-        "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
+      "user": "how can I help you?",
+      "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
     },
     {
-        "user": "that's good",
-        "bot": "Glad you think so! Is there anything else I can assist you with?"
+      "user": "that's good",
+      "bot": "Glad you think so! Is there anything else I can assist you with?"
     },
-     {
-        "user": "oh",
-        "bot": "Is there anything else I can help with?"
+    {
+      "user": "oh",
+      "bot": "Is there anything else I can help with?"
     },
-        {
-        "user": "Roblox",
-        "bot":     "Roblox is a unique platform, which allows users to create games, play games, and make friends!",
+    {
+      "user": "Roblox",
+      "bot": "Roblox is a unique platform, which allows users to create games, play games, and make friends!"
     },
     {
       "user": "ea",
       "bot": "EA Games, is one of the most hated game companies due to how they make their games so Pay-to-Win"
     },
-        {
-        "user": "hey there",
-        "bot": "Hey! How can I assist you?"
+    {
+      "user": "hey there",
+      "bot": "Hey! How can I assist you?"
     },
     {
-        "user": "How can I help you?",
-        "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
+      "user": "How can I help you?",
+      "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
     },
-        {
-        "user": "what did you do?",
-        "bot": "I helped people like you who chat with me. Is there anything I can assist you with?"
+    {
+      "user": "what did you do?",
+      "bot": "I helped people like you who chat with me. Is there anything I can assist you with?"
     },
-        {
-        "user": "ok",
-        "bot": "I'm glad I could assist. Is there anything I may assist you with?"
+    {
+      "user": "ok",
+      "bot": "I'm glad I could assist. Is there anything I may assist you with?"
     },
-        {
-        "user": "Tell me a joke",
-        "bot": "Of course! Why did the chicken cross the road? TO GET TO THE OTHER SIDE!"
+    {
+      "user": "Tell me a joke",
+      "bot": "Of course! Why did the chicken cross the road? TO GET TO THE OTHER SIDE!"
     },
-        {
-        "user": "alright",
-        "bot": "Is there anything else I can help you with?"
+    {
+      "user": "alright",
+      "bot": "Is there anything else I can help you with?"
     }
-    
   ],
   "training": [
     "Roblox is a unique platform, which allows users to create games, play games, and make friends!",
