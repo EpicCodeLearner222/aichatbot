@@ -5,6 +5,10 @@
       "bot": "Hello there!"
     },
     {
+      "user": "hi",
+      "bot": "Hi there! How can I help you?"
+    },
+    {
         "user": "hey",
         "bot": "Hello there!"
     },
