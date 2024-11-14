@@ -1,8 +1,12 @@
 {
   "conversations":[
-{
-  "user": "hi",
-  "bot": "Hello there!"
-}
+    {
+      "user": "hi",
+      "bot": "Hello there!"
+    },
+    {
+        "user": "hey",
+        "bot": "Hello there!"
+    }
   ]
 }
