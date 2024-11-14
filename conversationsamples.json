@@ -11,6 +11,14 @@
     {
         "user": "how can I help you?",
         "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
+    },
+    {
+        "user": "that's good",
+        "bot": "Glad you think so! Is there anything else I can assist you with?"
+    },
+     {
+        "user": "oh",
+        "bot": "Is there anything else I can help with?"
     }
   ]
 }
