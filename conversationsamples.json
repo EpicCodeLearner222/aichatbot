@@ -28,6 +28,10 @@
         "user": "Roblox",
         "bot":     "Roblox is a unique platform, which allows users to create games, play games, and make friends!",
     },
+    {
+      "user": "ea",
+      "bot": "EA Games, is one of the most hated game companies due to how they make their games so Pay-to-Win"
+    }
     
   ],
   "training": [
