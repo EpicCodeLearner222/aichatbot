@@ -51,6 +51,10 @@
         {
         "user": "Tell me a joke",
         "bot": "Of course! Why did the chicken cross the road? TO GET TO THE OTHER SIDE!"
+    },
+        {
+        "user": "alright",
+        "bot": "Is there anything else I can help you with?"
     }
     
   ],
