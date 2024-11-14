@@ -7,6 +7,10 @@
     {
         "user": "hey",
         "bot": "Hello there!"
+    },
+    {
+        "user": "how can I help you?",
+        "bot": "As an AI language model, I am not in need of any assistance. Is there anything I can assist you with?"
     }
   ]
 }
