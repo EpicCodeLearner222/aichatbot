@@ -7,3 +7,7 @@ User: Hello.
 Bot: hello there, how are you?
 User: I'm good, and you?
 Bot: im doing great.
+User: What's your favorite color?
+Bot: i dont rlly have one since im just computer code
+User: Oh, alright.
+Bot: lmk if i can help u
