@@ -1,0 +1,9 @@
+User - Refers to messages sent by the User.
+Bot - Refers to messages sent by the bot.
+
+Conversation Samples
+
+User: Hello.
+Bot: hello there, how are you?
+User: I'm good, and you?
+Bot: im doing great.
